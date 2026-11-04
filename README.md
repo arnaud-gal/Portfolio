@@ -1,4 +1,4 @@
-# 🚀 Mon Portfolio Tech
+# 🚀 Mon Portfolio
 
 Bienvenue sur mon espace de projets ! Étudiant en ingénierie à **ESIGELEC**, passionné par les nouvelles technologies, le développement, la conception mécanique et l'entrepreneuriat, je partage ici mes réalisations et projets en cours.
 
