@@ -17,21 +17,21 @@ Bienvenue sur mon espace de projets ! Étudiant en ingénierie à **ESIGELEC**, 
 
 ## Projets en cours
 
-### 🤖 Bras robotique avec technologie LiDAR
+### 🦾 Bras robotique (avec éventuelle technologie LiDAR)
 - **Description :** Conception d'un bras robotisé intégrant une technologie LiDAR.
 - **Avancement :** Conception et modélisation 3D des composants sous SolidWorks.
 - **Objectif :** Développer un système robotisé capable d'exploiter des données de distance pour interagir avec son environnement.
 
-### 🧠 "Jarvis" – Assistant personnel
+### 🧠 "Jarvis" | Assistant personnel
 - **Description :** Développement et configuration d'un assistant personnel intelligent et entièrement personnalisé via Tasker.
 - **Objectif :** Automatiser et centraliser mes routines, notifications et commandes quotidiennes.
 - **Statut :** En cours de développement.
 
-### 👕 Ekdys – Création d'une marque de vêtements
+### 👕 Ekdys | Création d'une marque de vêtements
 - **Description :** Création et développement de ma propre marque de vêtements, avec un premier modèle original : **SHIFT**.
 - **Missions :** Conception produit, recherche de fabricants européens, développement du prototype, identité visuelle et création du site web.
 - **Objectif :** Construire une marque indépendante, de la conception à la commercialisation.
-- 🌐 [Découvrir Ekdys](https://ekdys.fr)
+- 🌐 [Site Ekdys](https://ekdys.fr)
 
 ---
 
