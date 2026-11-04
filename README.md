@@ -6,6 +6,13 @@ Bienvenue sur mon espace de projets ! Étudiant en ingénierie à **ESIGELEC**, 
 
 ## Projets réalisés
 
+### 🤖 Robot autonome de suivi de ligne
+- **Description :** Réalisation en équipe de 4 personnes d'un robot autonome de suivi de ligne avec dépôt de balle dans un panier.
+- **Contributions personnelles :**
+  - ⚙️ **Modélisation du système de dépose :** Conception et optimisation pour l'efficacité.
+  - 💻 **Programmation du robot :** Suivi de ligne précis et navigation rapide du circuit.
+- **Distinction :** 1<sup>er</sup> sur le challenge de robotique du Lycée Clément Ader inter-secondes.
+
 ### 🧠 Projet Symbiose
 - **Description :** Développement d'une version informatique d'un jeu de société initialement conçu pour être joué physiquement.
 - **Contenu :**
