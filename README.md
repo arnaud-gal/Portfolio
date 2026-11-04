@@ -1,49 +1,44 @@
 # 🚀 Mon Portfolio Tech
 
-Bienvenue sur mon espace GitHub ! Étudiant en ingénierie à **ESIGELEC**, je m'intéresse aux nouvelles technologies, au développement informatique, à la robotique et à l'automatisation.
-
-Vous trouverez ici mes projets académiques, personnels et entrepreneuriaux, ainsi que mes expérimentations et futurs développements.
+Bienvenue sur mon espace de projets ! Étudiant en ingénierie à **ESIGELEC**, passionné par les nouvelles technologies, le développement, la conception mécanique et l'entrepreneuriat, je partage ici mes réalisations et projets en cours.
 
 ---
 
 ## 📂 Projets réalisés
 
 ### 🧠 Projet Symbiose
-- **Description :** Adaptation informatique d'un jeu de société existant sous format physique, afin de le rendre jouable sur ordinateur.
-- **Contenu du dépôt :**
+- **Description :** Développement d'une version informatique d'un jeu de société initialement conçu pour être joué physiquement.
+- **Contenu :**
   - 📄 [Compte-rendu PDF](./projet_symbiose/)
   - 💻 [Code source](./projet_symbiose/)
-- **Technologie :** Python.
+- **Technologie :** Python
 
 ---
 
-## 🏗️ Projets entrepreneuriaux
+## 🛠️ Projets en cours
+
+### 🤖 Bras robotique avec technologie LiDAR
+- **Description :** Conception d'un bras robotisé intégrant une technologie LiDAR.
+- **Avancement :** Conception et modélisation 3D des composants sous SolidWorks.
+- **Objectif :** Développer un système robotisé capable d'exploiter des données de distance pour interagir avec son environnement.
+
+### 🧠 Jarvis – Assistant personnel
+- **Description :** Développement et configuration d'un assistant personnel intelligent et entièrement personnalisé via Tasker.
+- **Objectif :** Automatiser et centraliser mes routines, notifications et commandes quotidiennes.
+- **Statut :** En cours de développement.
 
 ### 👕 Ekdys – Création d'une marque de vêtements
-- **Description :** Création et développement de ma propre marque de vêtements, avec SHIFT comme premier modèle.
-- **Missions :**
-  - Conception et développement du produit.
-  - Recherche et collaboration avec des fabricants européens.
-  - Création et gestion du site web.
-  - Développement de l'identité visuelle et de la stratégie de lancement.
-- **Site web :** https://ekdys.fr
-- **Statut :** En développement.
+- **Description :** Création et développement de ma propre marque de vêtements, avec un premier modèle original : **SHIFT**.
+- **Missions :** Conception produit, recherche de fabricants européens, développement du prototype, identité visuelle et création du site web.
+- **Objectif :** Construire une marque indépendante, de la conception à la commercialisation.
+- 🌐 [Découvrir Ekdys](https://ekdys.fr)
 
 ---
 
-## 🛠️ Travaux en cours & Automatisation
+## 🔮 Projets futurs
 
-### 🤖 Jarvis – Assistant personnel
-- **Description :** Développement et configuration d'un assistant personnel intelligent à l'aide de Tasker.
-- **Objectif :** Centraliser et automatiser mes routines, notifications et commandes quotidiennes.
-- **Statut :** En cours de conception.
-
----
-
-## 🔮 Projets futurs & Objectifs
-
-- 🦾 **Bras robotisé avec LiDAR intégré :** Conception d'un système robotisé intégrant des technologies de détection et de mesure de distance.
-- 💡 **Automatisation et IA :** Explorer de nouvelles applications de l'intelligence artificielle et des systèmes automatisés.
+- Continuer à développer mes compétences en robotique, automatisation et conception mécanique.
+- Explorer de nouvelles applications mêlant programmation, électronique et intelligence artificielle.
 
 ---
 
@@ -51,8 +46,7 @@ Vous trouverez ici mes projets académiques, personnels et entrepreneuriaux, ain
 
 - **LinkedIn :** [Arnaud Gallas](https://www.linkedin.com/in/gallas-arnaud/)
 - **Email :** arnaud.gallas.pro@gmail.com
-- **Site web :** [Ekdys](https://ekdys.fr)
 
 ---
 
-*Curieux, créatif et motivé, je cherche constamment à apprendre, expérimenter et transformer mes idées en projets concrets.*
+*Concevoir, développer, expérimenter et entreprendre.*
