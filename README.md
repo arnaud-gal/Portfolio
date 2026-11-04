@@ -1,38 +1,58 @@
 # 🚀 Mon Portfolio Tech
 
-Bienvenue sur mon espace de projets. Passionné par les nouvelles technologies, le développement et l'automatisation, je centralise ici mes différentes réalisations passées, présentes et futures.
+Bienvenue sur mon espace GitHub ! Étudiant en ingénierie à **ESIGELEC**, je m'intéresse aux nouvelles technologies, au développement informatique, à la robotique et à l'automatisation.
+
+Vous trouverez ici mes projets académiques, personnels et entrepreneuriaux, ainsi que mes expérimentations et futurs développements.
 
 ---
 
-## 📂 Projets Récents
+## 📂 Projets réalisés
 
 ### 🧠 Projet Symbiose
-* **Description :** Code pour format ordinateur d'un jeu de société éxistant uniquement physiquement
-* **Contenu du dépôt :** 
-  * 📄 [Consulter le Compte-Rendu PDF](./projet_symbiose/)
-  * 💻 [Accéder au Code Source](./projet_symbiose/)
-* **Technologies utilisées :** *Python*
+- **Description :** Adaptation informatique d'un jeu de société existant sous format physique, afin de le rendre jouable sur ordinateur.
+- **Contenu du dépôt :**
+  - 📄 [Compte-rendu PDF](./projet_symbiose/)
+  - 💻 [Code source](./projet_symbiose/)
+- **Technologie :** Python.
+
+---
+
+## 🏗️ Projets entrepreneuriaux
+
+### 👕 Ekdys – Création d'une marque de vêtements
+- **Description :** Création et développement de ma propre marque de vêtements, avec SHIFT comme premier modèle.
+- **Missions :**
+  - Conception et développement du produit.
+  - Recherche et collaboration avec des fabricants européens.
+  - Création et gestion du site web.
+  - Développement de l'identité visuelle et de la stratégie de lancement.
+- **Site web :** https://ekdys.fr
+- **Statut :** En développement.
 
 ---
 
 ## 🛠️ Travaux en cours & Automatisation
 
-### 🤖 Jarvis (Assistant Personnel via Tasker)
-* **Description :** Développement et configuration d'un assistant virtuel poussé et entièrement personnalisé.
-* **Objectif :** Centraliser la gestion de mes routines, notifications et commandes intelligentes au quotidien. 
-* **Statut :** Toujours en cours de conception.
+### 🤖 Jarvis – Assistant personnel
+- **Description :** Développement et configuration d'un assistant personnel intelligent à l'aide de Tasker.
+- **Objectif :** Centraliser et automatiser mes routines, notifications et commandes quotidiennes.
+- **Statut :** En cours de conception.
 
 ---
 
-### 🔮 Projets Futurs & Objectifs
+## 🔮 Projets futurs & Objectifs
 
-* **Prochain défi :** *Conception d'un bras robotisé avec technologie Lidar intégré*
+- 🦾 **Bras robotisé avec LiDAR intégré :** Conception d'un système robotisé intégrant des technologies de détection et de mesure de distance.
+- 💡 **Automatisation et IA :** Explorer de nouvelles applications de l'intelligence artificielle et des systèmes automatisés.
 
 ---
 
 ## 📫 Me contacter
 
-* **LinkedIn :** *https://www.linkedin.com/in/gallas-arnaud/*
-* **Email :** *arnaud.gallas.pro@gmail.com*
+- **LinkedIn :** [Arnaud Gallas](https://www.linkedin.com/in/gallas-arnaud/)
+- **Email :** arnaud.gallas.pro@gmail.com
+- **Site web :** [Ekdys](https://ekdys.fr)
 
 ---
+
+*Curieux, créatif et motivé, je cherche constamment à apprendre, expérimenter et transformer mes idées en projets concrets.*
